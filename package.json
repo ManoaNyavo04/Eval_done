@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "mix",
+        "prod": "mix --production",
+        "watch": "mix watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-mix": "^6.0.49",
+        "laravel-vite-plugin": "^1.0.0",
+        "vite": "^5.0.0"
+    }
+}
